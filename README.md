@@ -5,7 +5,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/hqu5EYMLCUw)
+
 
 ## Features
 - User's & Admin Section
@@ -32,7 +32,6 @@
   ```
 - `Uploaded_Resumes` folder is contaning the user's uploaded resumes.
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-- Admin side credentials is `machine_learning_hub` and password is `mlhub123`. 
+- Admin side credentials is `project` and password is `project123`. 
 
 
